@@ -1,0 +1,11 @@
+SOURCES:
+    
+    StdDraw Documentation: (This Saved My Life)
+        https://introcs.cs.princeton.edu/java/stdlib/javadoc/StdDraw.html
+
+    Font:
+        https://docs.oracle.com/javase/8/docs/api/java/awt/Font.html
+
+    Playing Cards:
+        https://code.google.com/archive/p/vector-playing-cards/downloads
+
